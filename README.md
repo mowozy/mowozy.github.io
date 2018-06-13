@@ -1,2 +1,0 @@
-# Mowozy Blog
-mowozy-blog
